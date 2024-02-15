@@ -1,0 +1,12 @@
+R:\Visual Studio 2022\С#\ПР20\ПР20\bin\Debug\ПР20.exe.config
+R:\Visual Studio 2022\С#\ПР20\ПР20\bin\Debug\ПР20.exe
+R:\Visual Studio 2022\С#\ПР20\ПР20\bin\Debug\ПР20.pdb
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.csproj.AssemblyReference.cache
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.Properties.Resources.resources
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.csproj.GenerateResource.cache
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.csproj.CoreCompileInputs.cache
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.exe
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.pdb
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.GraphicsLine.resources
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.Chart.resources
+R:\Visual Studio 2022\С#\ПР20\ПР20\obj\Debug\ПР20.StudentAnalysis.resources
